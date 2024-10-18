@@ -74,4 +74,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 ## Author
 
-Developed by [Your Name/Organization]. For contributions and support, please reach out through the repository's issues page.
+Developed by [Jkorir]. For contributions and support, please reach out through the repository's issues page.

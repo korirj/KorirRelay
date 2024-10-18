@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Korir Relay** project is an IoT application designed to control multiple relays via MQTT, enabling remote management of connected devices. It utilizes an ESP8266 microcontroller to connect to WiFi, allowing configuration and control through a web interface.
+The **Korir Relay** project is an IoT application designed to control multiple relays via MQTT, enabling remote management of connected devices. It utilizes an ESP8266 microcontroller to connect to WiFi, allowing configuration and control through a web interface. Did I mention that it can be connected to both Home assistant and Openhab through MQTT?. Local connection can be implemented through the push buttons.
 
 ## Features
 
